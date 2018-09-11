@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Persistencia en Android</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="mensaje_bienvenida">Bienvenido al Control de Donantes</string>
+    <string name="inicia_sesi_n_para_empezar">Inicia sesión para empezar</string>
+    <string name="app_title">Control de Donantes</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="nuevo_usuario">Nuevo usuario</string>
+    <string name="confrimar_contrasena">Confirmar contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="unfilled_field">Debes llenar todos los campos</string>
+    <string name="contrasenas_deben">Las contraseñas deben coincidir</string>
+    <string name="usuario_ocupado">El nombre de usuario está ocupado</string>
+    <string name="usuario_insertado">El usuario ha sido agregado</string>
+    <string name="usuario_inexistente">El nombre de usuario no existe</string>
+    <string name="contrasena_invalida">Contraseña Inválida</string>
+    <string name="id_del_donante_a_buscar">Id del donante a buscar</string>
+    <string name="no_de_identificacion">No. de identificacion</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="altura_cm">Altura (cm)</string>
+    <string name="donante_insertado">Donador insertado</string>
+    <string name="id_ocupado">El id ya está ocupado, escoge otro</string>
+    <string name="confirmacion">Confirmación</string>
+    <string name="borrar">Borrar</string>
+    <string name="pregunta_borrar">Desea borrar el registro?</string>
+    <string name="editar_usuario">Editar Usuario</string>
+    <string name="donante_actualizado">Donante actualizado</string>
+    <string name="actualizar_donador">Actualizar</string>
+    <string name="escribir_id">Escribe un id válido</string>
+    <string name="eliminar_cuenta">Eliminar cuenta</string>
+    <string name="confir_eliminar_cuenta">Desea eliminar la cuenta?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cuenta_eliminada">Cuenta eliminada</string>
+    <string name="nuevas_contrasenas_deben">Las nuevas contraseñas deben coincidir</string>
+    <string name="modificar_password">Modificar contraseña</string>
+    <string name="modificar">Modificar</string>
+    <string name="usuario_modificado">Contraseña modificada</string>
+    <string name="contrasena_anterior">Contraseña anterior</string>
+    <string name="nueva_contrasena">Nueva contraseña</string>
+    <string name="confrimar_nueva_contrasena">Confirmar nueva contraseña</string>
+    <string-array name="tipos_de_sangre">
+        <item>Tipo de sangre</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+    <string-array name="rh">
+        <item>Rh</item>
+        <item>Rh +</item>
+        <item>Rh -</item>
+    </string-array>
+</resources>
